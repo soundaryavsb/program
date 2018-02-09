@@ -14,7 +14,6 @@ int main(void) {
 	}
 	if(count==2)
 	{
-		//printf("prime number");
 		printf("%d\t",j);
 	}
 	}
