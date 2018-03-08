@@ -5,7 +5,7 @@ int main ()
   char str[20];
  gets(str);
   int count=0;
-  for(int i;i<20;i++)
+  for(int i=0;i<20;i++)
   {
   if (isdigit(str[i]))
   {
